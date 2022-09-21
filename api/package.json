@@ -127,7 +127,7 @@
 		"qs": "^6.9.4",
 		"rate-limiter-flexible": "^2.2.2",
 		"resolve-cwd": "^3.0.0",
-		"sharp": "^0.28.3",
+		"sharp": "^0.31.0",
 		"stream-json": "^1.7.1",
 		"uuid": "^8.3.2",
 		"uuid-validate": "0.0.3"
@@ -171,7 +171,7 @@
 		"@types/node": "^15.12.0",
 		"@types/nodemailer": "^6.4.1",
 		"@types/qs": "^6.9.6",
-		"@types/sharp": "^0.28.1",
+		"@types/sharp": "^0.31.0",
 		"@types/stream-json": "^1.7.0",
 		"@types/uuid": "^8.3.0",
 		"@types/uuid-validate": "^0.0.1",
